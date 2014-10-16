@@ -1,0 +1,107 @@
+body 
+{
+    font-family:Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height:100%;
+    width:100%;
+    color: rgb(53,73,94);
+    background-color: rgba(235, 235, 235,0.5);
+}
+
+h1
+{
+    font-weight: 200;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 50px 0 0;
+}
+
+h2
+{
+    font-weight: 600;
+    font-size: 50px;
+    margin-left : 30px;
+    margin-bottom: 20px;
+}
+
+p
+{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 0px;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+}
+
+.featureBox
+{
+    height: 600px;
+    margin: 20px 70px 20px 70px;
+    padding: 10px 50px 10px 50px;
+}
+
+.iPhoneB
+{
+    position: absolute;
+    vertical-align: center;
+    height: 600px;
+}
+
+.innerImage
+{
+    height: 436px;
+    position: absolute;
+}
+
+.explaination
+{
+    vertical-align: center;
+    height: 400px;
+    min-width: 800px;
+}
+
+h3
+{
+    font-weight: 200;
+    font-size: 40px;
+    margin-left : 30px;
+    margin-bottom: 20px;
+}
+
+h4
+{
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+#copyright
+{
+    width: 100%;
+    text-align:center;
+    font-size:90%;
+    margin:50px 0px 50px 0px;
+    padding:0;
+}
+
+#footer
+{
+    width: 100%;
+    text-align:center;
+    font-size:90%;
+    margin:50px 0px 50px 0px;
+    padding:0;
+}
+
+a
+{
+    text-decoration: none;
+    color: gray;
+    margin-right: 40px;
+}
+
+.support
+{
+    margin: 100px 100px 250px 100px;
+}
