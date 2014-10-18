@@ -112,3 +112,15 @@ a
     float: right;
 }
 
+#AppStoreBadge
+{
+    width:135px;
+    height:40px;
+    background-size:135px 40px;
+    background-repeat:no-repeat;
+    background-color:transparent;
+    display:block;
+    overflow:hidden;
+    background-image:url('/images/AppStoreBadge.png');
+}
+
