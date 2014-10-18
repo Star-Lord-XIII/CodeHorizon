@@ -37,28 +37,20 @@ p
 .featureBox
 {
     height: 600px;
-    margin: 20px 70px 20px 70px;
+    margin: 20px 50px 20px 50px;
     padding: 10px 50px 10px 50px;
+    min-width: 800px;
 }
 
 .iPhoneB
 {
-    position: absolute;
-    vertical-align: center;
     height: 600px;
-}
-
-.innerImage
-{
-    height: 436px;
-    position: absolute;
 }
 
 .explaination
 {
-    vertical-align: center;
     height: 400px;
-    min-width: 800px;
+    min-width: 500px;
 }
 
 h3
@@ -105,3 +97,18 @@ a
 {
     margin: 100px 100px 250px 100px;
 }
+
+.imageContainerL
+{
+    height: 100%;
+    margin-right: 50px;
+    float: left;
+}
+
+.imageContainerR
+{
+    height: 100%;
+    margin-left: 50px;
+    float: right;
+}
+
