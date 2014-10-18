@@ -121,6 +121,6 @@ a
     background-color:transparent;
     display:block;
     overflow:hidden;
-    background-image:url('/images/AppStoreBadge.png');
+    background-image:url('..images/AppStoreBadge.png');
 }
 
